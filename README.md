@@ -1,5 +1,5 @@
 # Notas
 
-Este repositorio contiene varios customHooks para ayudarme ami y a quien le sirva.
+Este repositorio contiene varios customHooks para ayudarme a mi y a quien le sirva.
 
-También la idea no volver a escribirlos.
+También la idea es no volver a escribirlos.
